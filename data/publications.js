@@ -240,7 +240,7 @@ URL = {https://doi.org/10.1117/12.3081129}
     type: "conference",
     year: 2025,
     authors: "Oktay, M. C., Danis, B. S., Rzayev, U., & Magden, E. S.",
-    title: "Experimental demonstration of ultra-wideband tapers, splitters and crossings with sub-0.1dB loss through computationally efficient and data-driven eigenmode expansion",
+    title: "Experimental demonstration of ultra-wideband tapers, splitters and crossings with sub-0.1dB loss through computationally eficient and data-driven eigenmode expansion",
     venue: "CLEO/Europe-EQEC 2025: Integrated Optical Devices 2",
     details: "Paper CK-2.2",
     links: { html: "https://ieeexplore.ieee.org/abstract/document/11111376" },
